@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/Administrator/lab4/lab4.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/Administrator/lab4/lab4.srcs/sim_1/new/DM_tb.v,1590072538,verilog,,,,DM_tb,,,,,,,,
+C:/Users/Administrator/lab4/lab4.srcs/sim_1/new/Reg_tb.v,1590071708,verilog,,,,Reg_tb,,,,,,,,
+C:/Users/Administrator/lab4/lab4.srcs/sim_1/new/sign_tb.v,1589684716,verilog,,,,sign_tb,,,,,,,,
+C:/Users/Administrator/lab4/lab4.srcs/sources_1/new/DM.v,1589679982,verilog,,C:/Users/Administrator/lab4/lab4.srcs/sim_1/new/DM_tb.v,,DM,,,,,,,,
+C:/Users/Administrator/lab4/lab4.srcs/sources_1/new/Reg.v,1589679982,verilog,,C:/Users/Administrator/lab4/lab4.srcs/sim_1/new/Reg_tb.v,,Reg,,,,,,,,
+C:/Users/Administrator/lab4/lab4.srcs/sources_1/new/sign.v,1589684677,verilog,,C:/Users/Administrator/lab4/lab4.srcs/sim_1/new/sign_tb.v,,sign,,,,,,,,
