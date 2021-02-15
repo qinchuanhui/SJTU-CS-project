@@ -23,12 +23,12 @@ Course-CS356 (Spring,2020), Score:100/100, Rank:1/156
 In proj1, I finished some simple tasks. In proj2, I designed and implemented an advanced OOM killer, which improved the performance of the Android linux kernel.
 Course-CS145 (Spring,2020), Score:100/100, Rank:1/80
 
-##### 3. Drug Molecular Toxicity Prediction
+##### 4. Drug Molecular Toxicity Prediction
 
 I designed and implemented a GCN-GAT deep learning network, which can predict the toxicity of drug-molecules.
 Course-CS410 (Fall,2020), Project Score: 25/25, Rank:1/80
 
-##### 4. Ultrasound Chatroom
+##### 5. Ultrasound Chatroom
 
 I designed and implemented a group-chatroom application based on ultrasound communication with security mechanism.
 Course-CS339 (Fall,2020), Project Score: unknown, Rank: unknown
